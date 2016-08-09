@@ -1,0 +1,30 @@
+{
+  "name": "max",
+  "version": "0.1.0",
+  "description": "a rep max calculator",
+  "main": "/app/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanvillacreative/max.git"
+  },
+  "keywords": [
+    "calculator",
+    "repmax",
+    "lifting",
+    "exercise"
+  ],
+  "author": "Morgan, Michelle, Ivan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivanvillacreative/max/issues"
+  },
+  "homepage": "https://github.com/ivanvillacreative/max#readme",
+  "devDependencies": {
+    "browser-sync": "^2.14.0",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2"
+  }
+}
